@@ -1,6 +1,9 @@
 # Day 11-08.01.2026: One Rupee Photo Gallery
 
+
 This project is a simple photo gallery website titled "One Rupee Photo," featuring an animated sidebar menu. It demonstrates CSS animations, transitions, and responsive design for a sidebar navigation.
+
+-Manoj Kumar V
 
 ## Files
 
